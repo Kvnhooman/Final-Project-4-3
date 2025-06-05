@@ -5,3 +5,7 @@ numpy
 matplotlib
 seaborn
 torch
+streamlit
+tqdm
+protobuf
+watchdog
